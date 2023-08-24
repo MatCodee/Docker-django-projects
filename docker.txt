@@ -1,0 +1,30 @@
+https://stackabuse.com/deploying-django-applications-to-aws-ec2-with-docker/
+https://medium.com/nerd-for-tech/how-to-deploy-python-django-project-on-aws-ec2-ubuntu-server-5c484fdb8f8c
+
+
+
+
+microservicios:
+https://microservicesdocumentation.readthedocs.io/en/latest/contributing/python.html
+https://testdriven.io/authors/herman/
+
+https://www.youtube.com/watch?v=NAOsLaB6Lfc&t=74s
+
+
+Docker tutorial django:
+https://www.youtube.com/watch?v=q75wgk9jVjA&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=3
+
+Graphql con django:
+https://www.youtube.com/watch?v=kP7wQoFXUSc&list=PLOLrQ9Pn6caxz00JcLeOR-Rtq0Yi01oBH
+
+Selenium con Django:
+https://www.youtube.com/watch?v=XnSQ6sRGKzI&list=PLOLrQ9Pn6cazIlOgYD8w4t_aRoaPb_kmS
+
+
+Personas de la cual aprender a usar Django:
+https://www.youtube.com/c/DennisIvy/playlists
+https://www.youtube.com/c/CodeArtisanLab/playlists
+https://www.youtube.com/c/dbestech/playlists
+https://www.youtube.com/c/Developerpe/playlists
+https://www.youtube.com/c/CodeWithStein/playlists
+https://www.youtube.com/c/JustDjango/playlists
